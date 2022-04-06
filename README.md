@@ -40,19 +40,19 @@
       <a href="#">
         <img src="https://camo.githubusercontent.com/19c442403fb0e923bbc655300a74ce3175f68171d9331aa9fd1d4e6b9a84977c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e737667" width="48" height="48" alt="Javascript" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" style="max-width: 100%;">
       </a>
-      <br>Javascript
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/faf0782d01ec9e993c2e258fa995f0fc9171a14969d2129bbf5a5816df7e7b62/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f72656163746a732f72656163746a732d69636f6e2e737667" width="48" height="48" alt="ReactJS" data-canonical-src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" style="max-width: 100%;">
       </a>
-      <br>React JS
+      <br>ReactJS
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="48" height="48" alt="NodeJS" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" style="max-width: 100%;">
       </a>
-      <br>Node JS
+      <br>NodeJS
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -68,12 +68,6 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" width="48" height="48" alt="Postman" data-canonical-src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="max-width: 100%;">
-      </a>
-      <br>Postman
-    </td>
-    <td align="center" width="96">
-      <a href="#">
         <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" width="48" height="48" alt="MongoDB" data-canonical-src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" style="max-width: 100%;">
       </a>
       <br>MongoDB
@@ -85,12 +79,6 @@
         <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
       </a>
       <br>ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/55c96f41fc5dba5af624827c4205fdb469978360e0554d081b71cab80d0b2e1d/687474703a2f2f7777772e6572696b61736c616e642e636f6d2f7374617469632f696d616765732f6d6f6e676f6f73652e706e67" width="48" height="48" alt="Mongoose" style="max-width: 100%;">
-      </a>
-      <br>Mongoose
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -114,7 +102,7 @@
       <a href="#">
         <img src="https://camo.githubusercontent.com/a9dd1874ba62546d3c033ee78358ccd8fd7c7d1b63e79da37a9d759904223cd5/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64622f4e706d2d6c6f676f2e737667" width="48" height="48" alt="npm" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" style="max-width: 100%;">
       </a>
-      <br>npm
+      <br>NPM
     </td>
     <td align="center" width="96">
       <a href="#">
