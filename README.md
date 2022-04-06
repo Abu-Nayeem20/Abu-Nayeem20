@@ -56,7 +56,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://camo.githubusercontent.com/b3c60985de9c613b233acb4d5c3b620bbaec04d217c03b600b18e870712b53c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f642f64392f4e6f64652e6a735f6c6f676f2e737667" width="48" height="48" alt="Redux" data-canonical-src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" style="max-width: 100%;">
+        <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="48" height="48" alt="Redux" data-canonical-src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" style="max-width: 100%;">
       </a>
       <br>Redux
     </td>
