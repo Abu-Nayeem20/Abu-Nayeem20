@@ -54,6 +54,12 @@
       </a>
       <br>NodeJS
     </td>
+    <td align="center" width="96"> 
+      <a href="#">
+        <img src="https://camo.githubusercontent.com/414133f161b78f61a2452120d5f81ea7ef13a6fcf0ac359382e1e012de4e874c/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f657870726573736a732f657870726573736a732d69636f6e2e737667" width="48" height="48" alt="ExpressJS" data-canonical-src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>ExpressJS
+    </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" width="48" height="48" alt="Redux" data-canonical-src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" style="max-width: 100%;">
@@ -71,6 +77,12 @@
         <img src="https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
       </a>
       <br>TailwindCSS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://mui.com/static/logo.png" width="48" height="48" alt="TailwindCSS" data-canonical-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="max-width: 100%;">
+      </a>
+      <br>MaterialUI
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -103,12 +115,6 @@
         <img src="https://camo.githubusercontent.com/d2b2bdee44236df7530ad5622036e0f8aa2259fcfb84d653c7d90a7f5759a7fa/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65302f4769742d6c6f676f2e737667" width="48" height="48" alt="Git" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg" style="max-width: 100%;">
       </a>
       <br>Git
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="https://camo.githubusercontent.com/990ef1f4073e53a6b9c73abb897b78f3e897707a36634cf70372ea1f5711f369/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f7465726d696e616c2d312e737667" width="48" height="48" alt="Terminal" data-canonical-src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" style="max-width: 100%;">
-      </a>
-      <br>Terminal
     </td>
     <td align="center" width="96">
       <a href="#">
