@@ -131,10 +131,10 @@
 <h2> Get in Touch <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' align="center" width="100px"> </h2>
 <div align="center">
 
-<p><a href="https://www.linkedin.com/in/abu-nayeem/" rel="nofollow"><img src="https://i.ibb.co/W64wVKb/linkedin-1.png" alt="image" data-canonical-src="https://i.ibb.co/W64wVKb/linkedin-1.png" style="max-width: 100%;"></a>
-<a href="https://www.facebook.com/abunayeem101" rel="nofollow"><img src="https://i.ibb.co/J3xw8WP/facebook-1.png" alt="image" data-canonical-src="https://i.ibb.co/J3xw8WP/facebook-1.png" style="max-width: 100%;"></a>
-<a href="https://abu-nayeem9.web.app/" rel="nofollow"><img src="https://i.ibb.co/CKWT2nh/web.png" alt="image" data-canonical-src="https://i.ibb.co/CKWT2nh/web.png" style="max-width: 100%;"></a>
-<a href="abunayeem.dev@gmail.com"><img src="https://i.ibb.co/HKGD8Q2/mail-1.png" alt="image" data-canonical-src="https://i.ibb.co/HKGD8Q2/mail-1.png" style="max-width: 100%;"></a>
+<p><a href="https://www.linkedin.com/in/abu-nayeem/" rel="nofollow"><img src="https://i.ibb.co/W64wVKb/linkedin-1.png" alt="image" data-canonical-src="https://i.ibb.co/W64wVKb/linkedin-1.png" style="max-width: 100%;" style="max-width: 100px"></a>
+<a href="https://www.facebook.com/abunayeem101" rel="nofollow"><img src="https://i.ibb.co/J3xw8WP/facebook-1.png" alt="image" data-canonical-src="https://i.ibb.co/J3xw8WP/facebook-1.png" style="max-width: 100%;" style="max-width: 100px"></a>
+<a href="https://abu-nayeem9.web.app/" rel="nofollow"><img src="https://i.ibb.co/CKWT2nh/web.png" alt="image" data-canonical-src="https://i.ibb.co/CKWT2nh/web.png" style="max-width: 100%;" style="max-width: 100px"></a>
+<a href="abunayeem.dev@gmail.com"><img src="https://i.ibb.co/HKGD8Q2/mail-1.png" alt="image" data-canonical-src="https://i.ibb.co/HKGD8Q2/mail-1.png" style="max-width: 100%;" style="max-width: 100px"></a>
 </p>
 </div>
 
