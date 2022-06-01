@@ -131,8 +131,7 @@
 <table>
 <thead>
   <td>
-    <h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center" width="100px"> </h2>
-<div align="center">
+    <h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center"> </h2>
   </td>
 </thead>
   <tbody><tr>
@@ -148,35 +147,3 @@
   </tr>
 </tbody></table>
 
-
-
-
-<h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center" width="100px"> </h2>
-<div align="center">
-
-<p><a href="https://www.linkedin.com/in/abu-nayeem/" rel="nofollow"><img src="https://i.ibb.co/W64wVKb/linkedin-1.png" alt="image" data-canonical-src="https://i.ibb.co/W64wVKb/linkedin-1.png" style="max-width: 60px; margin-right: 20px"></a>
-
-<a href="https://www.facebook.com/abunayeem101" rel="nofollow"><img src="https://i.ibb.co/J3xw8WP/facebook-1.png" alt="image" data-canonical-src="https://i.ibb.co/J3xw8WP/facebook-1.png" style="max-width: 60px; margin-right: 20px"></a>
-
-<a href="https://abu-nayeem9.web.app/" rel="nofollow"><img src="https://i.ibb.co/CKWT2nh/web.png" alt="image" data-canonical-src="https://i.ibb.co/CKWT2nh/web.png" style="max-width: 60px; margin-right: 20px"></a>
-
-<a href="abunayeem.dev@gmail.com"><img src="https://i.ibb.co/HKGD8Q2/mail-1.png" alt="image" data-canonical-src="https://i.ibb.co/HKGD8Q2/mail-1.png" style="max-width: 60px;"></a>
-</p>
-</div>
-
-<br>
-
-<!--
-**Abu-Nayeem20/Abu-Nayeem20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
