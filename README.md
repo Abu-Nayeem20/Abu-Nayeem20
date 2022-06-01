@@ -128,12 +128,9 @@
 
 <br>
 
+<h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center"> </h2>
+
 <table>
-<thead>
-  <td>
-    <h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center"> </h2>
-  </td>
-</thead>
   <tbody><tr>
     <td align="center" width="96">
       <a href="https://www.linkedin.com/in/abu-nayeem/" rel="nofollow"><img src="https://i.ibb.co/W64wVKb/linkedin-1.png" alt="image" data-canonical-src="https://i.ibb.co/W64wVKb/linkedin-1.png" style="max-width: 60px; margin-right: 20px"></a>
