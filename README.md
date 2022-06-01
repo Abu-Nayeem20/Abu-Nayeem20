@@ -128,7 +128,8 @@
 
 <br>
 
-<h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center"> </h2>
+<h2 align="center"> Get in Touch</h2>
+<img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center">
 
 <table>
   <tbody><tr>
