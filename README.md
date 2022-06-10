@@ -20,7 +20,7 @@
 <br>
 
 
-<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  align="center" width = 32px> </h2>
+<h2> Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"  align="center" width ="32px"> </h2>
 
 <table>
   <tbody><tr>
@@ -128,7 +128,7 @@
 
 <br>
 
-<h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center" width="80px"> </h2>
+<h2> Get in Touch <img src='https://i.ibb.co/fqgRZhT/handshake.gif' align="center" width="30px"> </h2>
 
 <table>
   <tbody>
