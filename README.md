@@ -20,7 +20,7 @@
 <br>
 
 
-<h2> Languages and Tools</h2>
+<h2> Languages and Tools 🚀</h2>
 
 <table>
   <tbody><tr>
@@ -128,18 +128,18 @@
 
 <br>
 
-<h2> Get in Touch</h2>
+<h2> Get in Touch 😉😊</h2>
 
 <table>
   <tbody>
   <tr text-align="center">
-    <td align="center" width="80">
+    <td align="center" width="70">
       <a href="https://www.linkedin.com/in/abu-nayeem/" rel="nofollow"><img src="https://i.ibb.co/W64wVKb/linkedin-1.png" alt="image" data-canonical-src="https://i.ibb.co/W64wVKb/linkedin-1.png" style="max-width: 60px; margin-right: 20px"></a>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="70">
       <a href="https://www.facebook.com/abunayeem101" rel="nofollow"><img src="https://i.ibb.co/J3xw8WP/facebook-1.png" alt="image" data-canonical-src="https://i.ibb.co/J3xw8WP/facebook-1.png" style="max-width: 60px; margin-right: 20px"></a>
     </td>
-    <td align="center" width="80">
+    <td align="center" width="70">
       <a href="https://abu-nayeem9.web.app/" rel="nofollow"><img src="https://i.ibb.co/CKWT2nh/web.png" alt="image" data-canonical-src="https://i.ibb.co/CKWT2nh/web.png" style="max-width: 60px; margin-right: 20px"></a>
     </td>
   </tr>
